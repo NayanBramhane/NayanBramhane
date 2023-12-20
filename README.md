@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React**
 
-- 🌐 Visit my Website **https://nayan-b-portfolio.netlify.app/**
+- 🌐 Visit my Website **https://nayan-bramhane.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
